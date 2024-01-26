@@ -15,9 +15,9 @@
 
 ### Requirements
 
-Users are be able to:
+Users can:
 
-- Generate new quote/advice
+- Generate new quotes/advice
 
 ### Screenshot
 
@@ -29,8 +29,8 @@ Users are be able to:
 
 ## My process
 
-The requirements of the project were easy to list out since in the user side only one functionality was needed.
-Beacuse this project requires basic understanding of async functions and HTTP request, I used axios to make requests
+The requirements of the project were easy to list out since on the user side only one functionality was needed.
+Because this project requires a basic understanding of async functions and HTTP requests, I used Axios to make requests
 to the API
 
 ### Built with
@@ -41,7 +41,7 @@ to the API
 
 ### What I learned
 
-This project introduced me to styled components - a easy anf fast alternative to style react components
+This project introduced me to styled-components - an easy and fast alternative to style react components
 
 ## Author
 
